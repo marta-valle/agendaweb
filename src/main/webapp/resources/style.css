@@ -1,0 +1,22 @@
+body {
+	background-color: #04626C;
+}
+
+p {
+	font-family: "Baskerville", serif;
+	font-size: 12px;
+}
+
+.card-title {
+	text-shadow: 0.01em 0.01em 0.2em #04626C;
+}
+
+.card-links {
+	height: 20%;
+	margin: 0 auto;
+	line-height: 1.0;
+}
+
+.form-control::placeholder {
+	font-size: 10px;
+}
